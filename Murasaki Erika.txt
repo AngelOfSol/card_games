@@ -1,0 +1,35 @@
+Murasaki Erika
+http://chaos-tcg.com/cardlist/?cardno=DC-130
+4+2/4+2
+[Auto][Partner]: At the beginning of your Main Phase, draw a card.  This activates even while {Face Down}.
+[Auto][Partner][1 Turn]: When this attacks or guards, this get +X/+X where X is your number of <OS> Friends.
+x 4
+
+Asakura Yume
+http://chaos-tcg.com/cardlist/?cardno=DC-021
+0+3/2+2
+[Continous]: If all your characters are <OS>, reduce damage dealt by characters with "Penetrate" by 4.
+[Main][1 Turn][Backyard 3 cards from your Waiting Room]: Draw a card.
+x 4
+
+Jamie Downing & Floring Kueji
+http://chaos-tcg.com/cardlist/?cardno=DC-138
+3+2/4+1
+[Entry]: [Put a character to {Face Up} from {Face Down}]
+[Continous]: Your |Murasaki Erika| gets "Penetrate".
+[Continous]: Reduce all outside of battle damage by 3.
+x 4
+
+
+
+Extra:
+Murasaki Erika
+http://chaos-tcg.com/cardlist/?cardno=DC-155
+[Entry]: [Discard a character card]
+[Main][Send this back to the Extra deck {Face Up}]: All your characters get +2/+0 for the turn.
+x 2
+
+http://chaos-tcg.com/recipe/recipe_wgp2013_sapp
+http://chaos-tcg.com/recipe/recipe_wgp2013_kana
+http://chaos-tcg.com/recipe/recipe_wgp2013_tokyo
+http://chaos-tcg.com/recipe/recipe_wgp2013_na

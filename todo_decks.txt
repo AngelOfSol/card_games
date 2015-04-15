@@ -1,0 +1,20 @@
+TODO CHAOS DECKS:
+http://chaos-tcg.com/cardlist/?cardno=NV-219
+
+Otonashi Saku
+http://chaos-tcg.com/cardlist/?cardno=AW-101
+4+2/4+2
+[Auto]: If this is set with a Set card, this gets "Penetrate".
+[Battle][{Face Up} a {Face Down} Extra Deck Card]: Until the end of the turn,  this gets +2/+2.  If the card put to {Face Up} for this cost was |Hello Kidou|, this gets +3/+3 instead, and if it's your turn, draw a card.
+x 4
+
+Extra:
+Hello Kidou
+http://chaos-tcg.com/cardlist/?cardno=AW-132
+3/3
+[Extra]: [|Kuraun| Character]
+[Entry]: [Discard a Card]
+[Continous]: This can't level up.
+[Auto]: During your turn, when this is put to {Face Up} from {Face Down} by a character with "Kuraun" in the name, you may backyard 3 cards from your Waiting Room.  If you do, you may put a character to {Face Up}. This ability works from the extra deck.
+[Auto]: At the end of your Main Phase, you may send this back to the Extra Deck {Face Up}.  If you do, put all "Hello Kidou" in your Extra Deck {Face Down}.
+x 4 

@@ -1,0 +1,43 @@
+Renjou Yae
+http://chaos-tcg.com/cardlist/?cardno=AW-009
+4+2/4+2
+[Auto]][1 Turn]: When this attacks, draw a card.
+[Main][Discard a Character Card]: Set "Erussaru" to this Character without paying its [Set] Cost.  
+x 4 
+
+Kanna Kou
+http://chaos-tcg.com/cardlist/?cardno=AW-026
+2+3/2+2
+[Auto]: When this enters, draw a card.
+[Auto][1 Turn]: When your Partner guards, it gets +0/+3.
+x 4
+
+Haruki Urara
+http://chaos-tcg.com/cardlist/?cardno=AW-PR003
+[Entry]: [Put a Character from {Face Down} to {Face Up}]
+[Auto]: When this enters, draw a card.
+x 3
+
+
+Set Card:
+
+Erussaru
+http://chaos-tcg.com/cardlist/?cardno=AW-094
+[Set]: [Discard 2 Cards]
+[Continous]: While set to your |Renjou Yae| this gains the following ability:
+	"[Auto]: When the Battle Opponent of this is put to {Face Down} from {Face Up} from Battle Damage while this is the Attacking Character, deal 2 damage to your Opponent.  This ability activates even while {Face Down}"
++4/+3
+x 4
+
+Magic Pen
+http://chaos-tcg.com/cardlist/?cardno=AW-099
+[Set]: [Discard a Card]
+
+Extra Character:
+
+Haruki Urara & Kanno Kou
+http://chaos-tcg.com/cardlist/?cardno=AW-056
+4+1/3+1
+[Continous]: While this has a Set Card set to it, all your [Same OS] characters get "First Strike".
+[Auto]: When this attacks, this gets +3/+0 until the end of the Battle.
+x 1

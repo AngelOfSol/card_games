@@ -1,0 +1,154 @@
+Asaba Konami
+http://chaos-tcg.com/cardlist/?cardno=PT-011
+4+2/4+2
+[Auto]: At the start of the Battle Phase, this gets +0/+3.  If this is set with a a Set card with [Set], this gets +3/+0.
+[Auto][1 Turn]: While this is has a Set card set to it, if the battle damage dealt by this puts its opponent to {Face Down}, you may backyard a card in your opponent's waiting room.  Afterwards, if your opponent's Backyard has 6 or more cards in it, you may put this to {Stand} from {Rest}.
+x 4
+
+Asaba Yuuma
+http://chaos-tcg.com/cardlist/?cardno=PT-017
+7+0/4+1
+[Entry]: [Put a {Face Up}{Stand} Character to {Face Down}{Reverse}]
+[Tresspass]: [Discard a Card, Kill a {Face Up} Friend]
+[Extra Name]: [Riina]
+[Continous]: Your same OS partner get "Penetrate".
+[Auto]: At the beginning of the Battle Phase, until the end of the turn, your Partner gets +2/+2.
+x 3 
+
+Tsukishima Yuuri
+http://chaos-tcg.com/cardlist/?cardno=PT-010
+0+2/1+3
+[Auto]: When one of your characters enters except via [Tresspass], you may backyard up to 2 cards from your opponent's Waiting Room.
+[Main][1 Turn][{Rest} this]: Draw 1.  If your opponent's Backyard is 5 cards or greater, draw an additional card.
+x 4
+
+Ichinose Mio
+http://chaos-tcg.com/cardlist/?cardno=PT-T02
+2+3/1+2
+[Auto]: When this enters or levels up, you may put a Set card from Waiting Room to Hand.
+x 4
+
+Asaba Aoi
+http://chaos-tcg.com/cardlist/?cardno=PT-020
+8/3+1
+[Entry]: [Put a {Face Up}{Stand} Character to {Face Down}{Reverse}]
+[Tresspass]: [Discard a Card, Kill a {Face Up} Friend]
+[Auto]: At the beginning of a Main Phase, if your characters are all [Same OS], your Opponent has 15 or more cards in their Backyard, put one of your opponent's friends to {Face Down}.
+[Auto]: When this enters except via [Tresspass], deal 1 damage to your Opponent.
+x 4
+
+Tina
+http://chaos-tcg.com/cardlist/?cardno=PT-015
+0+2/1+3
+[Continous]: Reduce all outside of battle damage dealt to your Characters by 3.
+[Main][1 Turn][Discard a Card]: Draw 2 cards.
+x 3
+
+Sena Ranka
+http://chaos-tcg.com/cardlist/?cardno=PT-067
+7+1/4
+[Entry]: [Put one of your {Face Up}{Stand} Characters to {Face Down}{Reverse}]
+[Tresspass]: [Return 2 of your Friends to your Hand]
+[Auto]: When this enters or levels up or auto levels up, this get +4/+0 for the turn.
+"Penetrate"
+x 3
+
+Angelina Shiiweru
+http://chaos-tcg.com/cardlist/?cardno=PT-058
+0+2/1+3
+[Contionus]: All your Opponent's Friends with Attack and Defence Boosting [Continous] abilities are negated.
+[Main][1 Turn][Discard a card]: Draw 2 cards.
+x 4
+
+Event Card:
+
+Maid Tickling Dance
+http://chaos-tcg.com/cardlist/?cardno=PT-093
+[Use]: [Discard 2 cards]
+[Main]: Put a Friend to {Face Down}.  Until the end of the turn, that Friend may not be faced up.
+x 2
+
+From now on we are 2
+http://chaos-tcg.com/cardlist/?cardno=PT-040
+[Use]: [Discard a Card]
+[Battle]: Put a Friend to {Face Up}{Stand}. For the turn that character deals no damage.  Afterwords backyard this.  This can only be used during your Opponent's Battle Phase.
+x 2 
+
+Neet's Afternoon Nap
+http://chaos-tcg.com/cardlist/?cardno=PT-041
+[Use]: [Discard 2 Cards]
+[Main]: {Rest} a character.
+x 2
+
+The Last Selfishness
+http://chaos-tcg.com/cardlist/?cardno=PT-038
+[Use]: [Discard a card]
+[Battle]: Negate all skills of Characters that have "Penetrate" for the turn.
+x 3
+
+Escaping from Rules
+http://chaos-tcg.com/cardlist/?cardno=PT-044
+[Use]: [Discard a card]
+[Main]: Backyard up to 2 cards from your Opponent's Waiting Room.  Choose a Set card and put it to Waiting Room.
+x 3
+
+Overflowed Thought
+http://chaos-tcg.com/cardlist/?cardno=PT-045
+[Use]: [Put 1 card from Hand and 4 cards from Waiting Room to Backyard]
+[Battle]: Negate all Power and Defence increases on target character. Afterwords, backyard this card.
+x 2
+
+Set Card:
+
+Embarassing Swimsuit
+http://chaos-tcg.com/cardlist/?cardno=PT-047
+[Set]: [Discard a Card]
+[Continous]: Negate all [Continous] power and defence boosts effects.
+[Continous]: You may set another set card that isn't this card to the character this is set to.
++1/+1
+x 3
+
+Shougi Board
+http://chaos-tcg.com/cardlist/?cardno=PT-048
+[Set]: [Backyard a Character card from Hand]
+[Continous]: The opponent must block this card if able.
+[Auto]: When your |Asaba Konami| attacks, you may backyard a card from your Opponent's Waiting Room.  If you do, your |Asaba Konami| or your |Asaba Yuuma| gets penetrate.
++2/+2
+x 4
+
+Extra:
+Tuskishima Yuuri
+http://chaos-tcg.com/cardlist/?cardno=PT-027
+3+1/4+1
+[Entry]: [Discard a Card]
+[Continous]: While this is in Battle, negate all skills of the Battle Opponent.
+x 1
+
+Tuskishima Yuuri & Ichinose Mio
+http://chaos-tcg.com/cardlist/?cardno=PT-032
+6+1/3+1
+[Auto]: When this enters or levels up, you may put a character to {Face Up}.  Afterwords, you may backyard up to 2 cards in your opponent's Waiting Room.
+[Auto]: When this attacks, deal 1 damage to your Opponent.
+x 3
+
+Asaba Aoi & Tina
+http://chaos-tcg.com/cardlist/?cardno=PT-033
+2+1/7+1
+[Continous]: Negate all [Continous] power and defence boosts effects.
+[Auto]: When this enters or levels up, you may put a character to {Face Up}.
+x 2
+
+Tina
+http://chaos-tcg.com/cardlist/?cardno=PT-029
+4+1/2+1
+[Entry]: [Choose a |Tina| in your Waiting Room and put it to Backyard]
+[Auto]: When this enters or levels up, you may choose one of your [Same OS] Characters and put it to {Face Up}.
+[Main][1 Turn][Discard a Card]: Put one of your Opponent's non-Extra Friends to [Rest].
+x 2
+
+Angelina Shiiweru
+http://chaos-tcg.com/cardlist/?cardno=PT-075
+3+1/3+1
+[Entry][Friend]: [Choose a |Angelina Shiiweru| in your Waiting Room and put it to Backyard]
+[Auto]: When this enters or levels up, you may choose one of your [Same OS] Characters and put it to {Face Up}.  Afterwords, until the end of the turn, all your characters get +2/+2.
+x 2

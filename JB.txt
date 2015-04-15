@@ -1,0 +1,183 @@
+JB
+Harudera Something or other
+http://chaos-tcg.com/cardlist/?cardno=GR-272
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=gr3.0&CID=10110&MODE=sell
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=gr3.0&CID=10027&MODE=sell
+4+2/4+2
+[Entry]: [Draw 2 cards, discard 1 card]
+[Auto][1 Turn]: When your Same OS partner guards, that character gets +0/+3.
+[Main][1 Turn][Discard a Card]:  Choose 1 of the two following:
+ - Draw 2 cards.
+ - Deal 4 damage to your opponent, this can't attack for the turn.
+x 4
+
+Matsushima Michiru
+http://chaos-tcg.com/cardlist/?cardno=GR-156
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=gr2.0&CID=10011&MODE=sell
+2+3/2+2
+When this character enters or levels up, and you have 2 or more other characters, draw 2.
+x 3
+
+Kazami Kazuki
+http://chaos-tcg.com/cardlist/?cardno=GR-122
+0+3/1+2
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=grext1.0&CID=10044&MODE=sell
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=grext1.0&CID=10045&MODE=sell
+[Continous]: Reduce all damage dealt outside of battle to your characters by 3.
+[Main][{Stand} to {Rest} this]: Draw a card.
+x 3
+
+Kazami Yuuji
+http://chaos-tcg.com/cardlist/?cardno=GR-179
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=gr2.0&CID=10034&MODE=sell
+5+2/1+1
+[Entry]: [Put one of your {Face Down} characters to {Face Up}]
+[Continous]: This can block while {Rest}.
+[Auto]: When this blocks a character with "Penetrate", this gains "First Defense".
+"First Strike"
+x 4
+
+Tachibana Chizuru
+http://chaos-tcg.com/cardlist/?cardno=GR-168
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=gr2.0&CID=10023&MODE=sell
+0+2/2+3
+[Auto]: When one of your Same OS characters enters, you may backyard up to 1 card in your opponent's Waiting Room.
+[Main][1 Turn][{Stand} to {Rest} this]: Draw a card.  If your opponent's Backyard has 5 or more in it, draw an additional card.
+x 4
+
+Sakaki Yumiko
+http://chaos-tcg.com/cardlist/?cardno=GR-004
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=gr1.0&CID=10030&MODE=sell
+3+3/2+2
+[Continous]: This takes no battle damage.
+[Auto]: When this is in battle, reverse it at the end of battle.
+x 4
+
+Kiara Falela
+http://chaos-tcg.com/cardlist/?cardno=GR-030
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=gr1.0&CID=10064&MODE=sell
+3+2/2+2
+[Auto]: When your opponent plays or levels up an extra character, you may {Face Up} {Stand} a character.
+x 2 
+
+Kusakabe Asako
+http://chaos-tcg.com/cardlist/?cardno=GR-184
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=gr2.0&CID=10039&MODE=sell
+2+3/1+2
+[Auto]: When this enters or levels up, send up to 3 cards from your opponent's Waiting Room to Backyard.
+[Main][1 Turn][{Stand} to {Rest} this]: Draw a card.
+x 4
+
+Komine Sachi
+http://chaos-tcg.com/cardlist/?cardno=GR-267
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=gr3.0&CID=10022&MODE=sell
+3+1/4+2
+[Entry]: [Put one of your {Face Down} characters to {Face Up}]
+[Auto][1 Turn]: When your partner attacks or guards, you may send up to 1 card from your opponent's Waiting Room to their Backyard.  If so, your partner get +1/+1 for the turn.
+[Main][1 Turn][Discard a Card]: Draw 2 cards.
+x 4
+
+Komine Sachi
+http://chaos-tcg.com/cardlist/?cardno=GR-114
+2+1/5+2
+[Entry]: [Put one of your {Face Down} characters to {Face Up}]
+[Auto]: When your partner attacks or guards, draw a card.
+x 2
+
+Events:
+
+At the Corner of the Zoo
+http://chaos-tcg.com/cardlist/?cardno=GR-137
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=grext1.0&CID=10074&MODE=sell
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=grext1.0&CID=10075&MODE=sell
+Event
+[Use]: [Discard a card]
+[Battle]: Put one of your friends to {Face Up}{Stand}, for the turn that character deals no damage.  Afterwords, backyard this card.  This can only be used during your opponent's Battle Phase.
+x 4
+
+Radon Specter
+http://chaos-tcg.com/cardlist/?cardno=GR-336
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=gr3.0&CID=10091&MODE=sell
+Event
+[Use]: [Discard a card]
+[Main]: Choose 1 of the following 2 abilities.  Afterwards, send this to Backyard.
+	- If there are no copies of this in your Backyard, you may put a friend to {Face Down}.
+	- Choose a Set card and put it to Backyard.
+x 1
+
+Fleeting Feeling
+http://chaos-tcg.com/cardlist/?cardno=GR-069
+[Use]: [Discard a Card]
+[Battle]: Negate all skills of character's with "Penetrate".
+x 2
+
+Another Meeting
+http://chaos-tcg.com/cardlist/?cardno=GR-323
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=gr3.0&CID=10078&MODE=sell
+[Use]: [Discard a Card]
+[Main]: Send up to 2 cards in your Opponent's Waiting Room to Backyard.  Put a Set card to Waiting Room.
+x 2
+
+Sleeping Makina
+http://chaos-tcg.com/cardlist/?cardno=GR-T09
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=gr1.0&CID=10011&MODE=sell
+[Use]: [Discard a card, put one of your {Face Up} friends to {Face Down}]
+[Main]: Put a friend to {Face Down}.
+x 3
+
+Set:
+Cooking Class
+http://chaos-tcg.com/cardlist/?cardno=GR-143
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=grext1.0&CID=10086&MODE=sell
+[Set]: [Discard a Card]
+[Auto]: When this set to your Partner you may choose an Event card in your Waiting Room and put it in your hand.
+x 4
+
+Extra:
+Kazami Kazuki & Matsushima Michiru
+Extra
+http://chaos-tcg.com/cardlist/?cardno=GR-310
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=gr3.0&CID=10065&MODE=sell
+3+1/6+1
+[Continous]: While this character is in Battle, negate all of the battle opponent's Skills.
+[Auto]: When this character enters or levels up, you may face up one of your same OS characters. 
+x 4
+
+Kazami Yuuji
+http://chaos-tcg.com/cardlist/?cardno=GR-204
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=gr2.0&CID=10059&MODE=sell
+6+1/6+1
+[Entry]: [Send 10 cards in your Waiting Room to Backyard]
+[Auto]: At the beginning of a Main phase, if your opponent has 15 or more cards in their backyard, you may put one of their Friends to {Face Down}.
+x 1
+
+Kazami Yuuji & Tachibana Chizuru
+http://chaos-tcg.com/cardlist/?cardno=GR-218
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=gr2.0&CID=10073&MODE=sell
+5+1/5+1
+[Auto]: When this enters or levels up, you may put one of your Same OS characters to {Face Up}, and choose up to 2 cards in your Opponent's Waiting Room and send them to Backyard.
+x 1
+
+Kazami Yuuji & Kiara Falela
+http://chaos-tcg.com/cardlist/?cardno=GR-217
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=gr2.0&CID=10072&MODE=sell
+5+1/5+1
+[Continous]: Your partner gets +2/+2.
+[Continous]: Reduce all outside of battle damage by the number of your other characters.
+x 1
+
+Komine Sachi
+http://chaos-tcg.com/cardlist/?cardno=GR-049
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=gr1.0&CID=10083&MODE=sell
+4+0/4+2
+[Continous]: Negate all skills of character with "Penetrate".
+x 1
+
+Kusakabe Asako
+http://chaos-tcg.com/cardlist/?cardno=GR-135
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=grext1.0&CID=10071&MODE=sell
+http://yuyu-tei.jp/game_chaos/carddetail/cardpreview.php?VER=grext1.0&CID=10070&MODE=sell
+5+1/1+1
+[Entry]: [Backyard a |Kusakabe Asako|]
+[Auto]: When this enter's or levels up deal 5 damage to a character.
+x 2

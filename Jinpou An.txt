@@ -1,0 +1,190 @@
+Jinpou An
+http://chaos-tcg.com/cardlist/?cardno=PT-001
+4+2/4+2
+[Main][1 Turn][Discard a Card]: Draw 2 cards.
+[Battle][1 Turn][Send a Character card in your Waiting Room to Backyard]: Choose 1 of the following 2 abilities:
+	- Until the end of turn, this gets +3/+0 and "Penetrate".
+	- Until the end of turn, this gets +0/+3.  If you have a {Face Up} Extra Character on the Field, you may return an Event card from your Waiting Room to your Hand.
+x 4
+
+Tsukishima Yuuri
+http://chaos-tcg.com/cardlist/?cardno=PT-T03
+0+3/1+2
+[Continous]: Reduce all outside of Battle damage by 3.
+[Main][1 Turn][{Stand} to {Rest} this]: Draw a card.
+x 4
+
+Inui Sana
+http://chaos-tcg.com/cardlist/?cardno=PT-063
+1+2/2+3
+[Auto]: When this enters or levels up, you may {Face Up} a Character.
+[Main][1 Turn][{Stand} to {Reverse} this]: You may {Rest} a Friend.
+x 3
+
+Amaha Miu
+http://chaos-tcg.com/cardlist/?cardno=PT-060
+0+2/2+3
+[Main][1 Turn][Discard a Card]: Draw 2 cards.
+[Main][Battle][{Face Up} to {Face Down} this]: Backyard up to 2 cards from your Opponent's Waiting Room.  This ability may be used while in Battle.
+x 3
+
+Uryuu Sakuno
+http://chaos-tcg.com/cardlist/?cardno=PT-054
+0+2/2+3
+[Continous]: Your Opponent cannot return cards from their Waiting Room to their Hand.
+[Main][1 Turn][Discard a Card]: Draw 2 cards.
+x 4
+
+Asaba Komami
+http://chaos-tcg.com/cardlist/?cardno=PT-013
+2+1/4+2
+[Entry]: [Put a Character from {Face Down} to {Face Up}]
+[Continous]: Reduce all outside of Battle damage by 3.
+[Auto]: When this enters or levels up, you may look at the top card of your deck.  Put it on top or bottom.  Draw a card.
+x 3
+
+Tina
+http://chaos-tcg.com/cardlist/?cardno=PT-015
+0+2/1+3
+[Continous]: Reduce all outside of battle damage dealt to your Characters by 3.
+[Main][1 Turn][Discard a Card]: Draw 2 cards.
+x 3
+
+Asaba Yuuma
+http://chaos-tcg.com/cardlist/?cardno=PT-017
+7+0/4+1
+[Entry]: [Put a {Face Up}{Stand} Character to {Face Down}{Reverse}]
+[Tresspass]: [Discard a Card, Kill a {Face Up} Friend]
+[Extra Name]: [Riina]
+[Continous]: Your same OS partner get "Penetrate".
+[Auto]: At the beginning of the Battle Phase, until the end of the turn, your Partner gets +2/+2.
+x 3 
+
+Sena Ranka
+http://chaos-tcg.com/cardlist/?cardno=PT-067
+7+1/4
+[Entry]: [Put one of your {Face Up}{Stand} Characters to {Face Down}{Reverse}]
+[Tresspass]: [Return 2 of your Friends to your Hand]
+[Auto]: When this enters or levels up or auto levels up, this get +4/+0 for the turn.
+"Penetrate"
+x 3
+
+Events:
+
+
+Neet's Afternoon Nap
+http://chaos-tcg.com/cardlist/?cardno=PT-041
+[Use]: [Discard 2 Cards]
+[Main]: {Rest} a character.
+x 1
+
+The Last Selfishness
+http://chaos-tcg.com/cardlist/?cardno=PT-038
+[Use]: [Discard a card]
+[Battle]: Negate all skills of Characters that have "Penetrate" for the turn.
+x 2
+
+Escaping from Rules
+http://chaos-tcg.com/cardlist/?cardno=PT-044
+[Use]: [Discard a card]
+[Main]: Backyard up to 2 cards from your Opponent's Waiting Room.  Choose a Set card and put it to Waiting Room.
+x 1
+
+Overflowed Thought
+http://chaos-tcg.com/cardlist/?cardno=PT-045
+[Use]: [Put 1 card from Hand and 4 cards from Waiting Room to Backyard]
+[Battle]: Negate all Power and Defence increases on target character. Afterwords, backyard this card.
+x 1
+
+Fluffy Kiss
+http://chaos-tcg.com/cardlist/?cardno=PT-094
+[Use]: [Discard 2 Cards]
+[Main]: Destroy all Set cards.  Afterwords, all your characters get +2/+0.
+x 1 
+
+Underwear Spread Abroad the World
+http://chaos-tcg.com/cardlist/?cardno=PT-096
+[Use]: [Discard 2 Character Cards]
+[Battle]: Until the end of turn, give a character +2/+0 and "First Defense".
+x 1
+
+Shocking Confession
+http://chaos-tcg.com/cardlist/?cardno=PT-T09
+[Use]: [{Rest} a {Stand} Character]
+[Battle]: Until the end of turn, remove "Penetrate" from a Character.
+x 2 
+
+From now on we are 2
+http://chaos-tcg.com/cardlist/?cardno=PT-040
+[Use]: [Discard a Card]
+[Battle]: Put a Friend to {Face Up}{Stand}. For the turn that character deals no damage.  Afterwords backyard this.  This can only be used during your Opponent's Battle Phase.
+x 2 
+
+A Weak Mind and a Tender Lie
+http://chaos-tcg.com/cardlist/?cardno=PT-039
+[Use]: [Discard a Card]
+[Battle]: You may {Stand} a {Rest} Character.  This can only be used during your Opponent's Battle Phase.
+x 1
+
+Scenery of Going to School
+http://chaos-tcg.com/cardlist/?cardno=PT-T14
+[Use]: [Discard a Card, Put a Friend from {Face Up} to {Face Down}]
+[Main]: Choose a Friend and put it to {Face Down}.
+x 1 
+
+Mashiroiro Symphony
+http://chaos-tcg.com/cardlist/?cardno=PT-091
+[Battle]: Backyard up to 3 cards from your Opponent's Waiting Room.  If those cards are all Character cards, for the turn, choose a Character and give it +2/+2.  Otherwise, draw a card.
+x 2 
+
+Excess Parental Affection
+http://chaos-tcg.com/cardlist/?cardno=PT-T12
+[Main]: Put a [Same OS] Character to {Face Up}.
+x 2
+
+Sets:
+
+First Uniform
+http://chaos-tcg.com/cardlist/?cardno=PT-T17
+[Set]: [Put one of your {Face Up}{Stand} Characters to {Face Down}{Reverse}]
++3/+3
+x 3
+
+Extra:
+
+Tuskishima Yuuri
+http://chaos-tcg.com/cardlist/?cardno=PT-027
+3+1/4+1
+[Entry]: [Discard a Card]
+[Continous]: While this is in Battle, negate all skills of the Battle Opponent.
+x 1
+
+Amaha Miu & Inui Sana
+http://chaos-tcg.com/cardlist/?cardno=PT-084
+6+1/2+1
+[Auto]: When this enters or levels up, you may {Rest} a Friend.
+"Penetrate"
+x 3
+
+Uryuu Sakuno
+http://chaos-tcg.com/cardlist/?cardno=PT-074
+3+1/3+1
+[Entry]: [Discard a Card]
+[Continous]: Your [Same OS] Partner gets +2/+2.
+[Continous]: Reduce all outside of Battle Damage by the number of your other Characters.
+x 1
+
+Asaba Komami
+http://chaos-tcg.com/cardlist/?cardno=PT-028
+2+1/4+1
+[Entry]: [Put a |Asaba Komami| in your Waiting Room to your Backyard]
+[Auto]: When this enters or levels up, you may look at the top 3 cards, rearrange them, and draw card.
+[Main][1 Turn][Discard a Card]: Return a Character card in your Waiting Room to your Hand.
+x 1
+
+Asaba Komami & Tina
+http://chaos-tcg.com/cardlist/?cardno=PT-035
+5+1/2+1
+[Continous]: All your Opponent's Characters in Hand lose [Tresspass].
+[Auto]: When this enters or levels up, deal 5 damage to a character.
+x 4
