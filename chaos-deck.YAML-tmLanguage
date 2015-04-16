@@ -1,0 +1,47 @@
+# [PackageDev] target_format: plist, ext: tmLanguage
+---
+name: Cardgames
+scopeName: source.cards
+fileTypes: [dec]
+uuid: 0da65be4-5aac-4b6f-8071-1aadb970b8d9
+
+patterns:
+- comment: Starters
+  name: string
+  match: \[|\]|\{|\}|\<|\>
+
+- comment: Sequences like \$, \> and \<
+  name: constant.character.escape.ssraw
+  match: \\[$<>]
+
+- comment: Keywords
+  name: keyword
+  match: (Auto|Continous|(Face Down)|(Face Up)|Stand|Reverse|Rest|Battle|Main|(1 Turn)|Extra|Entry|Unit|Tresspass|Set|Event|Use|Character|Friend|Attack|Defence|OS|Same OS)(s)?
+
+- comment: Skills
+  name: support.function
+  match: Penetrate|(First Strike)|(First Defence)|Reflection|(Opponent Selection)
+
+- comment: Links
+  name: support.function
+  match: http://.+?$
+
+- comment: Zones entity.name.function
+  name: entity.other.attribute-name
+  match: (Waiting Room)|Backyard|Deck|Extra Deck|Arena|Hand
+
+- comment: Numbers
+  name: constant.numeric
+  match: \d|X
+
+- comment: Power Boosts
+  name: constant.numeric
+  match: (\+|\-)(\d|X)(/)(\+|\-)(\d|X)
+
+- comment: Zones 
+  name: entity.name.function
+  match: \|(.+?)\|
+  captures:
+    '1': {name: support.function}
+
+...
