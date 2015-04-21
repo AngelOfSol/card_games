@@ -16,7 +16,7 @@ patterns:
 
 - comment: Keywords
   name: keyword
-  match: (Auto|Continous|(Face Down)|(Face Up)|Stand|Reverse|Rest|Battle|Main|(1 Turn)|Extra|Entry|Unit|Tresspass|Set|Event|Use|Character|Friend|Attack|Defence|OS|Same OS)(s)?
+  match: (Guard|Auto|Continous|(Face Down)|(Face Up)|Stand|Reverse|Rest|Battle|Main|(1 Turn)|Extra|Entry|Unit|Tresspass|Set|Event|Use|Character|Friend|Attack|Defence|OS|Same OS)(s)?
 
 - comment: Skills
   name: support.function

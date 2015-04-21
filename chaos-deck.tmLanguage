@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>dec</string>
+	</array>
+	<key>name</key>
+	<string>Cardgames</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>comment</key>
+			<string>Starters</string>
+			<key>match</key>
+			<string>\[|\]|\{|\}|\&lt;|\&gt;</string>
+			<key>name</key>
+			<string>string</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>Sequences like \$, \&gt; and \&lt;</string>
+			<key>match</key>
+			<string>\\[$&lt;&gt;]</string>
+			<key>name</key>
+			<string>constant.character.escape.ssraw</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>Keywords</string>
+			<key>match</key>
+			<string>(Guard|Auto|Continous|(Face Down)|(Face Up)|Stand|Reverse|Rest|Battle|Main|(1 Turn)|Extra|Entry|Unit|Tresspass|Set|Event|Use|Character|Friend|Attack|Defence|OS|Same OS)(s)?</string>
+			<key>name</key>
+			<string>keyword</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>Skills</string>
+			<key>match</key>
+			<string>Penetrate|(First Strike)|(First Defence)|Reflection|(Opponent Selection)</string>
+			<key>name</key>
+			<string>support.function</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>Links</string>
+			<key>match</key>
+			<string>http://.+?$</string>
+			<key>name</key>
+			<string>support.function</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>Zones entity.name.function</string>
+			<key>match</key>
+			<string>(Waiting Room)|Backyard|Deck|Extra Deck|Arena|Hand</string>
+			<key>name</key>
+			<string>entity.other.attribute-name</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>Numbers</string>
+			<key>match</key>
+			<string>\d|X</string>
+			<key>name</key>
+			<string>constant.numeric</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>Power Boosts</string>
+			<key>match</key>
+			<string>(\+|\-)(\d|X)(/)(\+|\-)(\d|X)</string>
+			<key>name</key>
+			<string>constant.numeric</string>
+		</dict>
+		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function</string>
+				</dict>
+			</dict>
+			<key>comment</key>
+			<string>Zones</string>
+			<key>match</key>
+			<string>\|(.+?)\|</string>
+			<key>name</key>
+			<string>entity.name.function</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.cards</string>
+	<key>uuid</key>
+	<string>0da65be4-5aac-4b6f-8071-1aadb970b8d9</string>
+</dict>
+</plist>
