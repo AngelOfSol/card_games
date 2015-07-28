@@ -1,0 +1,66 @@
+SAT
+
+Detecting collisions between objects is generally needed in many games.  Here I will be demonstrating how to detect collisions between 2 rectangles that may or may not be rotated using the sperating axis theorem.
+
+To start off though, I'm going to back up a bit.  For now, we're going to look at finding out the whether or not two circles are colliding.
+
+{Pic here}
+
+As it turns out, finding out whether or not circles are colliding is very simple.  We just check if the distance between the center points of the two circles is less than or equal to the sum of the radii of the two circles.
+
+Thus:
+
+Colliding: dist(c1, c2) <= r1 + r2
+Not colliding: dist(c1, c2) > r1 + r2
+
+You'll also notice that when the circles are not collidng, we can draw a line between the two circles, where the circles are on different sides of the line.  On the other hand, when they are colliding, we cannot draw such a line.  This called a seperating line.  If we look at the direction perpendicular to the seperating line, we get an axis, which we call the seperating axis.  In addition, you'll notice the seperation axis aligns along the difference between the two circles.  We can draw that the seperating line anywhere along the seperating axis where:
+	1)  It is between the two centers.
+	2)  It is not inside either of the two circles.
+
+Let's move on to rectangles now.
+
+{Pic here}
+
+As with before, in each case of non-colliding objects, we are able to draw a seperation line as before.  Now we need to figure out how to "draw" that line.
+
+As it turns out we have 2 seperation axes to test here: the x-axis and the y-axis.  While testing along the axes stated, you could imagine that each one is like the previous circle example where:
+	1) The radius of the circle is equivalent to the half dimension along that axis (x: half-width, y: half-height)
+	2) The distance between the circles is equivalent to the difference in the positions along those axes (dx: abs(c1.x - c2.x), dy: abs(c1.y - c2.y))
+Now that we have all that, we can just use the equations we used before in the Circle-Circle collision, with the only difference is we need to check twice, once for each axis!
+
+Even more interesting to note: Once we've found an axis along which they aren't colliding, they can't be colliding at all!
+
+Next up are rotated rectangles.  For this example, we're going to keep one of the Rectangles aligned to the x and y axes.
+
+{Pic here}
+
+You'll notice here that even though we aren't colliding, our checks along the x-axis and the y-axis say we are!  We can clearly see the line we can draw along which the rectangles are seperated, so we have to figure out where that axis is coming from.
+
+{Pic here}
+
+Note: I don't check the yellow axis because the orange one shows that the rectangles aren't colliding.
+
+You'll now notice 2 more axes coming out of the rotated rectangle.  It turns out, we also need to check these axes for overlap.  These axes are found by looking at the normals of each edge of the rotated rectangle.  The normals are the axes perpendicular to all of the edges of the rectangle.  (A smart reader might note that we're were previously checking the normals of the non-rotated rectangle also, because it just so happens they overlap with x and y axes!)
+
+Now that we know what the axes are (ie we have a vector in their direction) we can find out if we overlap with the following information:
+	1) The dimension of each rectangle along that axis (in half form).
+	2) The distance between each rectangle along that axis.
+
+To get the dimension along an axis for a rectangle (dim_axis_1, dim_axis_2), we do the following:
+	1) For each vertex:
+		a) Get the difference of the center point and a vertex.
+		b) Project along the axis (generally using the dot product).
+	2) Use the largest projection found in step 1.
+
+To get the distance between the two rectangles along the axis (diff_axis), we do the following:
+	1) Get the difference between the two center points.
+	2) Project them along the axis.
+
+Now that we have those, we test them for the following:
+
+Colliding: diff_axis <= dim_axis_1 + dim_axis_2
+Not collidiing: diff_axis > dim_axis_1 + dim_axis_2
+
+Testing all the normals for overlap will let you know whether you're colliding or not!
+
+Note for 3D:  Everything previously stated also works for 3D, with the exception of having to test the cross products of the normals in addition to just the normals themselves and having 1 additional dimension.

@@ -1,0 +1,192 @@
+Charlotte Dunoa
+http://chaos-tcg.com/cardlist/?cardno=IS-013
+[Auto][Partner] If one of your Opponent's character is [Rest], when your [Same OS] Character attacks, until the end of turn, that character gets +2/+0 until the end of turn.  Afterwards, if you have a |Laura Bodewig| on the Arena, at the end of the turn, put it from [Rest] to [Stand].
+[Main][Partner][1 Turn]: {Put one of your Friends to [Face Down] from [Face Up]} Draw a card.  You may put 2 cards from Waiting Room to Backyard, if you do put target Opponent's Character to [Rest].
+x 4
+
+Laura Bodewig
+http://chaos-tcg.com/cardlist/?cardno=IS-020
+[Entry]: {Put one of your characters from [Face Up][Stand] to [Face Down][Reverse]}
+[Tresspass]: {Put one of your friends to Waiting Room, put your |Charlotte Dunoa| to [Face Up] from [Face Down]}
+[Continuous]: If one of your Opponent's character is [Rest], when this Character attacks, this Character gets "Penetrate".  If three of your Opponent's character is [Rest], in addition, your |Charlotte Dunoa| gets "Penetrate".
+[Auto]: When this deals Battle Damage to a Battle Opponent, you may put that Character to [Rest].  This ability activates while [Face Down].
+x 4
+
+Orimura Ichika
+http://chaos-tcg.com/cardlist/?cardno=IS-034
+[Auto][1 Turn]: When your Partner guards, it gets +0/+3.
+[Main][1 Turn]: {Put a card from Hand to Backyard, Designate a [Same OS] Character} Choose a [Unit] Character in the Waiting Room with the same name as the designated card and [Unit] it.  At the end of Battle Phase, you may put it to Waiting Room. 
+x 3
+
+Charlotte Dunoa [Unit]
+http://chaos-tcg.com/cardlist/?cardno=IS-042
+[Unit]: {Designate a |Charlottee Dunoa| without <<&>> or <<IS>> in the name}
+[Continuous]: This gains all of the abilities of the card designated by this.
+[Auto]: When this enters, you may put target Friend to [Rest].  Afterwords, at the end of Battle Phase, you may put this to Waiting Room.
+[Main]: {Discard this Card from Hand} Draw 2 cards.  You may activate this while this is in your hand.  You can't draw cards due to <<This Card>> until the end of turn.
+x 3
+
+Laura Bodewig [Unit]
+http://chaos-tcg.com/cardlist/?cardno=IS-043
+[Unit]: {Designate a |Laura Bodewig| without <<&>> or <<IS>> in the name}
+[Continuous]: This gains all of the abilities of the card designated by this.
+[Auto]: When this enters, reduce target Character's defence by 3 until end of Battle Phase.  Afterwards, at the end of turn, you may put this to Waiting Room.
+[Main]: {Discard this card from Hand} Look at the top 3 cards of your Deck, and rearrange them.  Afterwards draw a card.  You may activate this while this is in your hand.  You can't draw cards due to <<This Card>> until the end of turn.
+x 2
+
+Orimura Ichika [Unit]
+http://chaos-tcg.com/cardlist/?cardno=IS-046
+[Unit]: {Designate a |Orimura Ichika| without <<&>> or <<IS>> in the name}
+[Continuous]: This gains all of the abilities of the card designated by this.
+[Main][1 Turn]: {Discard a Card} Draw 2 cards.  If the card you discarded had [Unit], you may put target Character to [Face Up].
+x 2
+
+Shinonono Houki
+http://chaos-tcg.com/cardlist/?cardno=IS-003
+[Continuous]: Reduce all outside of Battle damage by 3.
+[Auto]: When this character enters, look at the top card of your deck, and put it on top or bottom.  Draw a card.
+x 3
+
+Shinonono Houki [Unit]
+http://chaos-tcg.com/cardlist/?cardno=IS-039
+[Unit]: {Designate a |Shinonono Houki| without <<&>> or <<IS>> in the name}
+[Continuous]: This gains all of the abilities of the card designated by this.
+[Auto]: When this character attacks, it gets +3/+0 for the turn.
+[Battle]: {Discard a card, Return this card to Hand} Remove all damage from your characters.
+x 1
+
+Sarashiki Tatenashi
+http://chaos-tcg.com/cardlist/?cardno=IS-022
+[Entry]: {Put one of your characters from [Face Up][Stand] to [Face Down][Reverse]}
+[Tresspass]: {Return 2 of your Characters to Hand}
+[Auto]: When this enters, draw a card.  If you used [Tresspass] to enter this, for the rest of the turn, you cannot [Tresspass].
+"Penetrate"
+x 2
+
+Orimura Chifuyu
+http://chaos-tcg.com/cardlist/?cardno=IS-029
+[Entry]: {Put a character from [Face Down] to [Face Up]}
+[Tresspass]: [Discard a card, Return a Friend to Hand]
+[Auto] If all your Characters are [Same OS], whenever another Character attacks, until the end of Battle, that Character gets +2/+0.
+[Auto] When your Partner Guards, you may draw a card.
+x 3 
+
+Fuan Rinin
+http://chaos-tcg.com/cardlist/?cardno=IS-010
+[Entry] (Put 1 [Same OS] character from [Face Down] to [Face Up])
+[Auto] When your [Same OS] Partner is chosen as the Attack character, until the end of the Battle, 
+that character gains 3 ATK.
+[Main][Turn 1] (Put 1 character from [Face Up] to [Face Down]) Until the end of the turn, 1 target 
+[Same OS] character gains [Penetrate].
+x 3
+
+
+Event:
+
+http://chaos-tcg.com/cardlist/?cardno=IS-T10
+[Use] (Put 1 character from [Stand] to [Rest]. 
+[Battle] Until the end of the turn, 1 target character has its [Penetrate] nullified.
+x 2
+
+http://chaos-tcg.com/cardlist/?cardno=IS-T13
+[Use] (Put 1 card from your hand to the waitng room, put 1 of your Friend from [Face Up] to 
+[Face Down])
+[Main] Put 1 target Friend to [Face Down].
+x 1
+
+http://chaos-tcg.com/cardlist/?cardno=IS-T14
+[Use] (Put 1 character card from your hand to the waiting room)
+[Main] Put 1 target set to the waiting room. After that, draw 1 card.
+x 2
+
+http://chaos-tcg.com/cardlist/?cardno=IS-T15
+[Use] (Put 1 [Same OS] character card from your hand to the waiting room)
+Choose 1 of the 2 below.
+- [Main] Put 1 target Friend that is an Extra character to [Face Down].
+- [Battle] Until the end of the turn, all your [Same OS] characters gain 2 ATK.
+x 2
+
+http://chaos-tcg.com/cardlist/?cardno=IS-075
+[Use] (Put 1 [Same OS] character card from your waiting room to backyard)
+[Main] Put 1 target non-extra Friend to [Rest]. If you have [Charlotte Dunois] on your stage, 
+until the end of the turn, opponent may not choose characters other than [Face Up][Stand] 
+characters as guard character.
+x 3
+
+http://chaos-tcg.com/cardlist/?cardno=IS-088
+[Use] (Put 1 card from your hand to the waiting room)
+[Battle] Put 1 [Same OS] friend to [Face Up][Stand], until the end of the turn, that character 
+does not deal battle damage. After that, put this card to the backyard. This card can only be 
+used during your opponent's Battle Phase.
+x 3
+
+http://chaos-tcg.com/cardlist/?cardno=IS-090
+[Use] (Put 2 cards from your hand to the waiting room)
+[Main] Put 1 target opponent character to [Rest].
+x 1
+
+http://chaos-tcg.com/cardlist/?cardno=IS-078
+[Use] (Put 1 [Same OS] card from your hand to the waiting room)
+[Battle] Choose 1 of the 2 below
+-Until end of the turn, all characters with [Penetrate] has all their skills nullified.
+-If you have a [Face Up] [Unit] in your Arena, you may put 3 character cards from your waiting room 
+to the backyard. If you do so, until the end of the turn, 1 target character has all skills nullified. 
+After that, you may return 1 [Face Up] [Unit] character card that is not participating in battle 
+to your hand.
+x 2
+
+Set:
+
+http://chaos-tcg.com/cardlist/?cardno=IS-093
+[Set] (Put 1 [Same OS] card from your hand to the waiting room)
+[Auto] When you Set this Set card to your [Same OS] partner, you may add 1 [Same OS] Event card from 
+your waiting room to hand. This ability activates even when [Face Down].
+x 3 
+
+http://chaos-tcg.com/cardlist/?cardno=IS-096
+[Set] (Put 1 [Same OS] card from your hand to the waiting room) 
+[Continuous] [Friend] All your characters cannot have their DEF reduced by opponent effects.
+[Auto][Partner] When this Set card is Set to a [Same OS] Character, you may draw 2 cards. Until end 
+of the turn, <IS Deployment> loses all [Auto] abilities. This ability activates even when 
+[Face Down]
+x 1
+
+Extra:
+
+Shinonono Houki
+http://chaos-tcg.com/cardlist/?cardno=IS-047
+[Extra] ([Shinono Houki])
+[Entry] (Put 1 [Shinonono Houki] from your waiting room to backyard)
+[Continuous] When this character has [Unit], this character gains [Penetrate].
+[Auto] When this character enters or levels Up, you may put 1 target opponent Friend to [Rest].
+x 2
+
+Orimura Ichika
+http://chaos-tcg.com/cardlist/?cardno=IS-054
+[Extra] ([Orimura Ichika])
+[Entry] (Put 1 character card from your hand to the waiting room)
+[Auto] When this character Enters or Levels Up, you may look at up to the top 3 cards of your deck, 
+rearrange then and put them back to the top of your deck. After that, you may draw 1 card.
+[Main] (Put this card without [Unit] to your Extra Deck [Face Up]) Put 1 target [Same OS] character to 
+[Face Up].
+x 4
+
+Shinonono Houki
+http://chaos-tcg.com/cardlist/?cardno=IS-055
+[Extra] ([Shinono Houki])
+[Entry] (Put 1 card from your hand to the waiting room)
+[Continuous] When this character participates in battle, nullify all skills on its battling opponent.
+x 1
+
+Infinite Stratos
+http://chaos-tcg.com/cardlist/?cardno=IS-071
+[Continuous] This card cannot enter.
+[Auto] During your turn, if your Partner with [Unit] has not been chosen as an Attack character is 
+put from [Stand] to [Rest] by an opponent's card effect, you may put this card in your Extra deck 
+from [Face Down] to [Face Up]. If you do so, put that character to [Stand]. If that character is 
+Level 3 and above, you may draw 1 card. This ability can be activated in the Extra Deck.
+[Main] (Put this card in the Extra Deck from [Face Down] to [Face Up], put 1 card from your hand 
+to the waiting room) Choose 1 [Unit] with the same name as a character on the areana and pay the 
+[Unit] cost and Enter it. Until the end of the turn, you may not use Main ability of 
+<IS <Infinite Stratos>>.
+x 3
